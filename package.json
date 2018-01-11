@@ -1,0 +1,23 @@
+{
+  "name": "crypto-trade",
+  "version": "1.0.0",
+  "description": "crypto trading tool",
+  "main": "index.js",
+  "dependencies": {
+    "gdax": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://liuzijing2014@github.com/liuzijing2014/crypo-trade.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuzijing2014/crypo-trade/issues"
+  },
+  "homepage": "https://github.com/liuzijing2014/crypo-trade#readme"
+}
